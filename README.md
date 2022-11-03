@@ -1,6 +1,6 @@
 # Entregable SQL
 
-## Descripción del caso
+## Descripción del caso h
 
 En este entregable tenemos que realizar una serie de consultas sobre una base de datos que obtenemos de la web de [este enlace](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/). 
 
